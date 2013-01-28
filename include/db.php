@@ -4,19 +4,19 @@
 $db_host = "localhost";
 
 // database name
-$db_name = "nutonu_representuw";
+$db_name = "";
 
 // database user name
-$db_user = "nutonu_sisun";
+$db_user = "";
 
 // database password
-$db_pass = "admin101";
+$db_pass = "";
 
 // admin username
-$admin_user = "sisun_kevin";
+$admin_user = "";
 
 // admin password
-$admin_pass = "admin101";
+$admin_pass = "";
 
 // HTML that goes just before </head>
 $head_html = "";
